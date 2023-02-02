@@ -8,8 +8,6 @@ https://github.com/RodrigoMvs123/ChatGPT-Tutorial---Use-ChatGPT-for-DevOps-tasks
 
 ChatGPT Tutorial 
 
-https://www.youtube.com/watch?v=l-kE11fhfaQ
-
 
 What is ChatGPD is ?
 
