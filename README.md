@@ -4,6 +4,8 @@ https://www.youtube.com/watch?v=l-kE11fhfaQ
 
 https://raw.githubusercontent.com/RodrigoMvs123/ChatGPT-Tutorial---Use-ChatGPT-for-DevOps-tasks-to-10x-Your-Productivity/main/README.md
 
+https://github.com/RodrigoMvs123/ChatGPT-Tutorial---Use-ChatGPT-for-DevOps-tasks-to-10x-Your-Productivity/blame/main/README.md
+
 ChatGPT Tutorial 
 
 https://www.youtube.com/watch?v=l-kE11fhfaQ
